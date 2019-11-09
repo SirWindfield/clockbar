@@ -23,10 +23,6 @@ The `clockbar` is enabled by default. Players can change the time format as well
 - Xisumavoid's [Coordinate HUD](https://vanillatweaks.net/picker/datapacks/) data pack calculates the time dynamically. Something similar can be done in this pack, which would remove the huge blocks of if statements that are used to determine the displayed time
 - The settings menu can be improved with additional colored feedback (enabled settings are green, disabled ones red), tick marks etc.
 
-## Limitations
-
-The only item that is currently blast resistent is the nether star when it gets dropped by the Wither. This behaviour is hard-coded into Minecraft and does not use NBT tags as other features. Therefore it is currently not possible to make embossed items blast resistent.
-
 ## License
 
 The data pack is licensed under the GPLv3. For more information, take a look at the license file within this repository.
