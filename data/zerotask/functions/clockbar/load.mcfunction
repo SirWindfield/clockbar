@@ -18,4 +18,6 @@ scoreboard players enable @a cb_config
 tag @a add ztWantsCB
 
 # Adds the needed bossbar for all players
-execute as @a run bossbar add zerotask:clockbar {"text":"Time","color":"gold"}
+bossbar add zerotask:clockbar {"text":"Time","color":"yellow"}
+bossbar set zerotask:clockbar color yellow
+bossbar set zerotask:clockbar max 24000
